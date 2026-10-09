@@ -12,8 +12,6 @@
 - `outputs/`：分析结果。
 - `docs/`：指标说明。
 
-第三方代码的版权与许可信息见相应目录。
-
 ## English
 
 This repository contains data, analysis code, and results for a study of the spatiotemporal evolution of traditional village street and lane networks along the Jiangxi section of the Gan-Yue Ancient Road.
@@ -22,5 +20,3 @@ This repository contains data, analysis code, and results for a study of the spa
 - `scripts/` and `src/`: Analysis code.
 - `outputs/`: Analysis results.
 - `docs/`: Indicator descriptions.
-
-Copyright and license information for third-party code is provided in the corresponding directory.
